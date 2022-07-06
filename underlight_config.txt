@@ -1,0 +1,15 @@
+Bottom RGB LED Key combination configuration
+
+VIA  SPECIAL  Any  （Enter the following key values to control the underlight）
+
+
+//0x5d09  // Hue decreases  
+//0x5d0a  // Hue increases  
+//0x5d0b  // Switch mode  
+//0x5d0c  // Saturation decreases  
+//0x5d0d  // Saturation increases  
+//0x5d0e  // Speed decreases  
+//0x5d0f  // Speed increased  
+//0x5d10  // Switch  
+//0x5d11  // Brightness  decreases  
+//0x5d12  // Brightness  increases  
